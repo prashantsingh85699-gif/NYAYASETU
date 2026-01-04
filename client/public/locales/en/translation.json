@@ -1,0 +1,170 @@
+{
+    "tagline": "AI-Powered Legal Petition Drafting Platform",
+    "hero": {
+        "powered": "Powered by Advanced AI",
+        "title": "Legal Justice Made Accessible for Every Indian Citizen",
+        "subtitle": "Draft professional legal petitions in your language naturally. No legal expertise required."
+    },
+    "stats": {
+        "languages": "Indian Languages",
+        "types": "Petition Types",
+        "time": "To Draft",
+        "accuracy": "Legal Accuracy",
+        "minutes": "Min"
+    },
+    "petitionTypes": {
+        "title": "Choose Your Petition Type",
+        "items": {
+            "rti": {
+                "name": "RTI Application",
+                "desc": "Right to Information request"
+            },
+            "consumer": {
+                "name": "Consumer Complaint",
+                "desc": "Consumer forum complaint"
+            },
+            "grievance": {
+                "name": "Grievance Petition",
+                "desc": "Complaint to authorities"
+            },
+            "pil": {
+                "name": "Public Interest Litigation",
+                "desc": "Legal petition for public cause"
+            },
+            "writ": {
+                "name": "Writ Petition",
+                "desc": "Constitutional remedy"
+            },
+            "municipal": {
+                "name": "Municipal Complaint",
+                "desc": "Local body complaint"
+            }
+        }
+    },
+    "features": {
+        "title": "Why Choose NyayaSetu?",
+        "questionnaire": {
+            "title": "Smart Questionnaires",
+            "desc": "Simple step-by-step questions that anyone can answer."
+        },
+        "ai": {
+            "title": "AI Generation",
+            "desc": "Instantly generates legally accurate petitions based on your answers."
+        },
+        "multilingual": {
+            "title": "Multilingual Support",
+            "desc": "Full support for 12+ Indian languages including Hindi, Tamil, Telugu, etc."
+        }
+    },
+    "common": {
+        "getStarted": "Get Started",
+        "view": "View",
+        "download": "Download",
+        "loading": "Loading...",
+        "save": "Save",
+        "next": "Next",
+        "previous": "Previous",
+        "submit": "Submit",
+        "backToHome": "Back to Home",
+        "readMore": "Read More",
+        "showLess": "Show Less",
+        "backAcross": "Back",
+        "selectOption": "Select an option",
+        "backToDashboard": "Back to Dashboard",
+        "print": "Print",
+        "downloadStarted": "Download started",
+        "downloadPdf": "Download PDF"
+    },
+    "nav": {
+        "home": "Home",
+        "dashboard": "Dashboard",
+        "logout": "Logout"
+    },
+    "auth": {
+        "login": "Login",
+        "signup": "Sign Up",
+        "loginTitle": "Welcome Back",
+        "loginSubtitle": "Sign in to access your petitions",
+        "loginSuccess": "Logged in successfully",
+        "loginError": "Invalid credentials",
+        "registerTitle": "Create Account",
+        "registerSubtitle": "Join NyayaSetu to start drafting petitions",
+        "registerSuccess": "Account created successfully",
+        "registerError": "Registration failed",
+        "email": "Email Address",
+        "password": "Password",
+        "name": "Full Name",
+        "phone": "Phone Number",
+        "address": "Address",
+        "city": "City",
+        "state": "State",
+        "noAccount": "Don't have an account?",
+        "hasAccount": "Already have an account?",
+        "googleUser": "Google User",
+        "loggedInStatus": "Logged in",
+        "enterEmail": "Enter your email",
+        "enterPassword": "Enter your password",
+        "enterName": "Full Name",
+        "enterPhone": "Phone Number",
+        "enterAddress": "Full Address",
+        "enterCity": "City",
+        "enterState": "State",
+        "orContinueWith": "Or continue with",
+        "loggedInWith": "Logged in with {{provider}}",
+        "loginFailed": "{{provider}} login failed",
+        "placeholderPassword": "Password"
+    },
+    "dashboard": {
+        "title": "My Dashboard",
+        "subtitle": "Manage your petitions and drafts",
+        "newPetition": "New Petition",
+        "confirmDelete": "Are you sure you want to delete this petition?",
+        "deleteSuccess": "Petition deleted",
+        "deleteError": "Failed to delete petition",
+        "allStatus": "All Status",
+        "allTypes": "All Types",
+        "noPetitions": "No Petitions Found",
+        "noPetitionsDesc": "You haven't created any petitions yet.",
+        "createFirst": "Create Your First Petition"
+    },
+    "status": {
+        "draft": "Draft",
+        "completed": "Completed",
+        "submitted": "Submitted",
+        "archived": "Archived"
+    },
+    "chatbot": {
+        "title": "Legal Assistant",
+        "welcome": "Hello! I can help you understand legal procedures or fill out petitions. What brings you here today?",
+        "placeholder": "Type your message...",
+        "error": "Sorry, I couldn't process that request."
+    },
+    "news": {
+        "title": "Latest Updates",
+        "items": [
+            {
+                "title": "New Consumer Protection Guidelines 2024",
+                "date": "Jan 15, 2024",
+                "summary": "The government has issued comprehensive new guidelines for e-commerce platforms to strictly protect consumer rights. These regulations specifically target 'dark patterns' that manipulate users into making unwanted purchases, as well as addressing unfair trade practices that have become prevalent in the digital marketplace. Violators will face significant penalties under the new framework.",
+                "link": "https://www.india.gov.in"
+            },
+            {
+                "title": "Simplified RTI Filing Process Online",
+                "date": "Jan 10, 2024",
+                "summary": "RTI applications can now be filed with significantly fewer documents and simplified verification steps through the newly updated government portal. This major overhaul aims to increase transparency and make it easier for citizens to access information without bureaucratic hurdles. The new system also features a real-time status tracking dashboard for applicants.",
+                "link": "https://pib.gov.in"
+            },
+            {
+                "title": "National Lok Adalat Schedule Announced",
+                "date": "Jan 05, 2024",
+                "summary": "The next National Lok Adalat is scheduled for next month to help settle a wide range of pending cases amicably without any court fees. This initiative covers civil cases, matrimonial disputes, and compoundable criminal cases, offering a faster and more cost-effective alternative to traditional litigation. Citizens are encouraged to register their cases early for resolution.",
+                "link": "https://pib.gov.in"
+            }
+        ]
+    },
+    "questionnaire": {
+        "schemaError": "Failed to load questionnaire",
+        "steps": "Step {{current}} of {{total}}",
+        "generate": "Generate Petition"
+    }
+}

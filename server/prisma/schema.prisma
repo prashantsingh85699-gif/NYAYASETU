@@ -1,0 +1,50 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id        String   @id @default(uuid())
+  email     String   @unique
+  password  String
+  name      String
+  phone     String?
+  address   String?
+  city      String?
+  state     String?
+  language  String   @default("en")
+  role      String   @default("user")
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  petitions Petition[]
+
+  @@index([email])
+}
+
+model Petition {
+  id                String   @id @default(uuid())
+  userId            String
+  type              String   // rti, consumer, grievance, pil, writ, municipal
+  status            String   @default("draft") // draft, completed, submitted, archived
+  title             String
+  questionnaireData Json     // All form responses
+  generatedContent  String?  @db.Text // AI-generated petition
+  language          String   @default("en")
+  referenceNumber   String?  @unique
+  pdfUrl            String?
+  submittedAt       DateTime?
+  createdAt         DateTime @default(now())
+  updatedAt         DateTime @updatedAt
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@index([type])
+  @@index([status])
+  @@index([createdAt])
+}

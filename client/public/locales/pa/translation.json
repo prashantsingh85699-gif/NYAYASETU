@@ -1,0 +1,159 @@
+{
+    "tagline": "AI-ਸੰਚਾਲਿਤ ਕਾਨੂੰਨੀ ਪਟੀਸ਼ਨ ਡਰਾਫਟਿੰਗ ਪਲੇਟਫਾਰਮ",
+    "hero": {
+        "powered": "ਉੱਨਤ AI ਦੁਆਰਾ ਸੰਚਾਲਿਤ",
+        "title": "ਹਰ ਭਾਰਤੀ ਨਾਗਰਿਕ ਲਈ ਕਾਨੂੰਨੀ ਨਿਆਂ ਪਹੁੰਚਯੋਗ",
+        "subtitle": "ਆਪਣੀ ਭਾਸ਼ਾ ਵਿੱਚ ਪੇਸ਼ੇਵਰ ਕਾਨੂੰਨੀ ਪਟੀਸ਼ਨਾਂ ਨੂੰ ਕੁਦਰਤੀ ਤੌਰ 'ਤੇ ਤਿਆਰ ਕਰੋ। ਕੋਈ ਕਾਨੂੰਨੀ ਮਹਾਰਤ ਦੀ ਲੋੜ ਨਹੀਂ।"
+    },
+    "stats": {
+        "languages": "ਭਾਰਤੀ ਭਾਸ਼ਾਵਾਂ",
+        "types": "ਪਟੀਸ਼ਨ ਕਿਸਮਾਂ",
+        "time": "ਤਿਆਰ ਕਰਨ ਦਾ ਸਮਾਂ",
+        "accuracy": "ਕਾਨੂੰਨੀ ਸ਼ੁੱਧਤਾ",
+        "minutes": "ਮਿੰਟ"
+    },
+    "petitionTypes": {
+        "title": "ਆਪਣੀ ਪਟੀਸ਼ਨ ਦੀ ਕਿਸਮ ਚੁਣੋ",
+        "items": {
+            "rti": {
+                "name": "ਆਰਟੀਆਈ ਅਰਜ਼ੀ",
+                "desc": "ਸੂਚਨਾ ਦਾ ਅਧਿਕਾਰ ਬੇਨਤੀ"
+            },
+            "consumer": {
+                "name": "ਖਪਤਕਾਰ ਸ਼ਿਕਾਇਤ",
+                "desc": "ਖਪਤਕਾਰ ਫੋਰਮ ਸ਼ਿਕਾਇਤ"
+            },
+            "grievance": {
+                "name": "ਸ਼ਿਕਾਇਤ ਪਟੀਸ਼ਨ",
+                "desc": "ਅਧਿਕਾਰੀਆਂ ਨੂੰ ਸ਼ਿਕਾਇਤ"
+            },
+            "pil": {
+                "name": "ਜਨਹਿੱਤ ਪਟੀਸ਼ਨ",
+                "desc": "ਜਨਤਕ ਹਿੱਤ ਲਈ ਕਾਨੂੰਨੀ ਪਟੀਸ਼ਨ"
+            },
+            "writ": {
+                "name": "ਰਿੱਟ ਪਟੀਸ਼ਨ",
+                "desc": "ਸੰਵਿਧਾਨਕ ਉਪਚਾਰ"
+            },
+            "municipal": {
+                "name": "ਨਗਰ ਨਿਗਮ ਸ਼ਿਕਾਇਤ",
+                "desc": "ਸਥਾਨਕ ਸੰਸਥਾ ਸ਼ਿਕਾਇਤ"
+            }
+        }
+    },
+    "features": {
+        "title": "NyayaSetu ਕਿਉਂ ਚੁਣੋ?",
+        "questionnaire": {
+            "title": "ਸਮਾਰਟ ਪ੍ਰਸ਼ਨਾਵਲੀ",
+            "desc": "ਸਧਾਰਨ ਕਦਮ-ਦਰ-ਕਦਮ ਸਵਾਲ ਜਿਨ੍ਹਾਂ ਦਾ ਜਵਾਬ ਕੋਈ ਵੀ ਦੇ ਸਕਦਾ ਹੈ।"
+        },
+        "ai": {
+            "title": "AI ਜਨਰੇਸ਼ਨ",
+            "desc": "ਤੁਹਾਡੇ ਜਵਾਬਾਂ ਦੇ ਆਧਾਰ 'ਤੇ ਤੁਰੰਤ ਕਾਨੂੰਨੀ ਤੌਰ 'ਤੇ ਸਹੀ ਪਟੀਸ਼ਨਾਂ ਤਿਆਰ ਕਰਦਾ ਹੈ।"
+        },
+        "multilingual": {
+            "title": "ਬਹੁਭਾਸ਼ਾਈ ਸਹਾਇਤਾ",
+            "desc": "ਹਿੰਦੀ, ਤਮਿਲ, ਤੇਲਗੂ ਆਦਿ ਸਮੇਤ 12+ ਭਾਰਤੀ ਭਾਸ਼ਾਵਾਂ ਲਈ ਪੂਰਾ ਸਮਰਥਨ।"
+        }
+    },
+    "common": {
+        "getStarted": "ਸ਼ੁਰੂ ਕਰੋ",
+        "view": "ਵੇਖੋ",
+        "download": "ਡਾਊਨਲੋਡ",
+        "loading": "ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ...",
+        "save": "ਸੇਵ",
+        "next": "ਅੱਗੇ",
+        "previous": "ਪਿੱਛੇ",
+        "submit": "ਜਮ੍ਹਾਂ ਕਰੋ",
+        "backToHome": "ਘਰ ਵਾਪਸ ਜਾਓ"
+    },
+    "nav": {
+        "home": "ਹੋਮ",
+        "dashboard": "ਡੈਸ਼ਬੋਰਡ",
+        "logout": "ਲੌਗ ਆਉਟ"
+    },
+    "auth": {
+        "login": "ਲੌਗ ਇਨ",
+        "signup": "ਸਾਈਨ ਅਪ",
+        "loginTitle": "ਵਾਪਸ ਸੁਆਗਤ ਹੈ",
+        "loginSubtitle": "ਆਪਣੀਆਂ ਪਟੀਸ਼ਨਾਂ ਤੱਕ ਪਹੁੰਚਣ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ",
+        "loginSuccess": "ਸਫਲਤਾਪੂਰਵਕ ਲੌਗ ਇਨ ਕੀਤਾ ਗਿਆ",
+        "loginError": "ਗਲਤ ਜਾਣਕਾਰੀ",
+        "registerTitle": "ਖਾਤਾ ਬਣਾਓ",
+        "registerSubtitle": "ਪਟੀਸ਼ਨਾਂ ਤਿਆਰ ਕਰਨ ਲਈ NyayaSetu ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਵੋ",
+        "registerSuccess": "ਖਾਤਾ ਸਫਲਤਾਪੂਰਵਕ ਬਣਾਇਆ ਗਿਆ",
+        "registerError": "ਰਜਿਸਟਰੇਸ਼ਨ ਅਸਫਲ ਰਹੀ",
+        "email": "ਈਮੇਲ ਪਤਾ",
+        "password": "ਪਾਸਵਰਡ",
+        "name": "ਪੂਰਾ ਨਾਮ",
+        "phone": "ਫੋਨ ਨੰਬਰ",
+        "address": "ਪਤਾ",
+        "city": "ਸ਼ਹਿਰ",
+        "state": "ਰਾਜ",
+        "noAccount": "ਖਾਤਾ ਨਹੀਂ ਹੈ?",
+        "hasAccount": "ਪਹਿਲਾਂ ਹੀ ਖਾਤਾ ਹੈ?",
+        "googleUser": "ਗੂਗਲ ਯੂਜ਼ਰ",
+        "loggedInStatus": "ਲੌਗ ਇਨ",
+        "enterEmail": "ਆਪਣਾ ਈਮੇਲ ਦਰਜ ਕਰੋ",
+        "enterPassword": "ਆਪਣਾ ਪਾਸਵਰਡ ਦਰਜ ਕਰੋ",
+        "enterName": "ਪੂਰਾ ਨਾਮ",
+        "enterPhone": "ਫੋਨ ਨੰਬਰ",
+        "enterAddress": "ਪੂਰਾ ਪਤਾ",
+        "enterCity": "ਸ਼ਹਿਰ",
+        "enterState": "ਰਾਜ",
+        "orContinueWith": "ਜਾਂ ਇਸ ਨਾਲ ਜਾਰੀ ਰੱਖੋ",
+        "loggedInWith": "{{provider}} ਨਾਲ ਲੌਗ ਇਨ ਕੀਤਾ",
+        "loginFailed": "{{provider}} ਲੌਗਇਨ ਅਸਫਲ",
+        "placeholderPassword": "ਪਾਸਵਰਡ"
+    },
+    "dashboard": {
+        "title": "ਮੇਰਾ ਡੈਸ਼ਬੋਰਡ",
+        "subtitle": "ਆਪਣੀਆਂ ਪਟੀਸ਼ਨਾਂ ਅਤੇ ਡਰਾਫਟਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰੋ",
+        "newPetition": "ਨਵੀਂ ਪਟੀਸ਼ਨ",
+        "confirmDelete": "ਕੀ ਤੁਸੀਂ ਯਕੀਨਨ ਇਸ ਪਟੀਸ਼ਨ ਨੂੰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?",
+        "deleteSuccess": "ਪਟੀਸ਼ਨ ਮਿਟਾ ਦਿੱਤੀ ਗਈ",
+        "deleteError": "ਪਟੀਸ਼ਨ ਮਿਟਾਉਣ ਵਿੱਚ ਅਸਫਲ",
+        "allStatus": "ਸਾਰੇ ਸਥਿਤੀ",
+        "allTypes": "ਸਾਰੇ ਕਿਸਮਾਂ",
+        "noPetitions": "ਕੋਈ ਪਟੀਸ਼ਨ ਨਹੀਂ ਮਿਲੀ",
+        "noPetitionsDesc": "ਤੁਸੀਂ ਅਜੇ ਤੱਕ ਕੋਈ ਪਟੀਸ਼ਨ ਨਹੀਂ ਬਣਾਈ ਹੈ।",
+        "createFirst": "ਆਪਣੀ ਪਹਿਲੀ ਪਟੀਸ਼ਨ ਬਣਾਓ"
+    },
+    "status": {
+        "draft": "ਡਰਾਫਟ",
+        "completed": "ਪੂਰਾ ਹੋਇਆ",
+        "submitted": "ਜਮ੍ਹਾਂ ਕੀਤਾ",
+        "archived": "ਆਰਕਾਈਵ ਕੀਤਾ"
+    },
+    "chatbot": {
+        "title": "ਕਾਨੂੰਨੀ ਸਹਾਇਕ",
+        "welcome": "ਸਤ ਸ੍ਰੀ ਅਕਾਲ! ਮੈਂ ਕਾਨੂੰਨੀ ਪ੍ਰਕਿਰਿਆਵਾਂ ਨੂੰ ਸਮਝਣ ਜਾਂ ਪਟੀਸ਼ਨਾਂ ਭਰਨ ਵਿੱਚ ਤੁਹਾਡੀ ਮਦਦ ਕਰ ਸਕਦਾ ਹਾਂ।",
+        "placeholder": "ਆਪਣਾ ਸੁਨੇਹਾ ਟਾਈਪ ਕਰੋ...",
+        "error": "ਮਾਫ ਕਰਨਾ, ਮੈਂ ਉਸ ਬੇਨਤੀ ਦੀ ਪ੍ਰਕਿਰਿਆ ਨਹੀਂ ਕਰ ਸਕਿਆ।"
+    },
+    "news": {
+        "title": "ਨਵੀਨਤਮ ਅਪਡੇਟਸ",
+        "items": [
+            {
+                "title": "New Consumer Protection Guidelines 2024",
+                "date": "Jan 15, 2024",
+                "summary": "The government has issued new guidelines for e-commerce platforms to protect consumer rights against dark patterns and unfair trade practices."
+            },
+            {
+                "title": "Simplified RTI Filing Process Online",
+                "date": "Jan 10, 2024",
+                "summary": "RTI applications can now be filed with fewer documents and simplified verification steps through the new portal update."
+            },
+            {
+                "title": "National Lok Adalat Schedule Announced",
+                "date": "Jan 05, 2024",
+                "summary": "The next National Lok Adalat is scheduled for next month to help settle pending cases amicably without court fees."
+            }
+        ]
+    },
+    "questionnaire": {
+        "schemaError": "ਪ੍ਰਸ਼ਨਾਵਲੀ ਲੋਡ ਕਰਨ ਵਿੱਚ ਅਸਫਲ",
+        "steps": "ਕਦਮ {{total}} ਵਿੱਚੋਂ {{current}}",
+        "generate": "ਪਟੀਸ਼ਨ ਤਿਆਰ ਕਰੋ"
+    }
+}

@@ -1,0 +1,31 @@
+✨ Gemini AI Connected! Key Length: 39
+Testing AI Chat...
+Question: IPC 420 kya hota hai detail mein batao
+[DEBUG] Chat Request: "IPC 420 kya hota hai detail mein batao" | Gemini: true | OpenAI: true
+[DEBUG] Attempting Gemini chat...
+(node:34444) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+[DEBUG] Gemini Success!
+
+--- AI Answer ---
+नमस्कार। मैं e-Jagriti का लीगल असिस्टेंट हूँ।
+
+भारतीय दंड संहिता (IPC) की धारा 420 बहुत महत्वपूर्ण है और यह **धोखाधड़ी (Cheating)** से संबंधित सबसे गंभीर धाराओं में से एक है।
+
+**धारा 420 क्या है?**
+
+यह धारा तब लागू होती है जब कोई व्यक्ति:
+
+1.  **धोखाधड़ी करता है (Cheating):** किसी व्यक्ति को जानबूझकर गलत जानकारी या झूठे वादे से धोखा देता है।
+2.  **बेईमानी से प्रेरित करता है (Dishonestly Induces):** इस धोखाधड़ी के कारण, पीड़ित व्यक्ति को बेईमानी से प्रेरित किया जाता है कि वह:
+    *   अपनी **संपत्ति सौंप दे (Delivery of property)**।
+    *   कोई मूल्यवान प्रतिभूति (Valuable Security) बना दे, बदल दे या नष्ट कर दे।
+
+**उदाहरण:** किसी व्यक्ति को यह कहकर पैसे लेना कि वह सरकारी नौकरी दिला देगा, या झूठे दस्तावेज़ दिखाकर ज़मीन बेच देना, IPC 420 के अंतर्गत आता है।
+
+**सजा का प्रावधान:**
+
+*   यह एक गंभीर अपराध है।
+*   इसमें **7 साल तक की कैद** और **जुर्माना** हो सकता है।
+*   यह **संज्ञेय (Cognizable)** (पुलिस बिना वारंट गिरफ्तार कर सकती है) और **गैर-जमानती (Non-bailable)** अपराध है।
+-----------------

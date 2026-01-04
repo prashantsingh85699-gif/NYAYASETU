@@ -1,0 +1,159 @@
+{
+    "tagline": "എഐ-അധിഷ്ഠിത നിയമ ഹർജി ഡ്രാഫ്റ്റിംഗ് പ്ലാറ്റ്‌ഫോം",
+    "hero": {
+        "powered": "നൂതന എഐ വഴി പ്രവർത്തിക്കുന്നു",
+        "title": "ഓരോ ഇന്ത്യൻ പൗരനും നിയമപരമായ നീതി ലഭ്യമാണ്",
+        "subtitle": "നിങ്ങളുടെ ഭാഷയിൽ പ്രൊഫഷണൽ നിയമ ഹർജികൾ സ്വാഭാവികമായി തയ്യാറാക്കുക. നിയമപരമായ അറിവ് ആവശ്യമില്ല."
+    },
+    "stats": {
+        "languages": "ഇന്ത്യൻ ഭാഷകൾ",
+        "types": "ഹർജി തരങ്ങൾ",
+        "time": "തയ്യാറാക്കാൻ സമയം",
+        "accuracy": "നിയമപരമായ കൃത്യത",
+        "minutes": "മിനിറ്റ്"
+    },
+    "petitionTypes": {
+        "title": "നിങ്ങളുടെ ഹർജി തരം തിരഞ്ഞെടുക്കുക",
+        "items": {
+            "rti": {
+                "name": "വിവരാവകാശ അപേക്ഷ",
+                "desc": "വിവരാവകാശ അഭ്യർത്ഥന"
+            },
+            "consumer": {
+                "name": "ഉപഭോക്തൃ പരാതി",
+                "desc": "ഉപഭോക്തൃ ഫോറം പരാതി"
+            },
+            "grievance": {
+                "name": "പരാതി പരിഹാര ഹർജി",
+                "desc": "അധികാരികൾക്ക് പരാതി"
+            },
+            "pil": {
+                "name": "പൊതുതാല്പര്യ ഹർജി",
+                "desc": "പൊതുതാല്പര്യത്തിനായുള്ള നിയമ ഹർജി"
+            },
+            "writ": {
+                "name": "റിട്ട് ഹർജി",
+                "desc": "ഭരണഘടനാപരമായ പരിഹാരം"
+            },
+            "municipal": {
+                "name": "മുനിസിപ്പൽ പരാതി",
+                "desc": "തദ്ദേശ സ്വയംഭരണ സ്ഥാപന പരാതി"
+            }
+        }
+    },
+    "features": {
+        "title": "എന്തുകൊണ്ട് NyayaSetu തിരഞ്ഞെടുക്കണം?",
+        "questionnaire": {
+            "title": "സ്മാർട്ട് ചോദ്യാവലി",
+            "desc": "ആർക്കും ഉത്തരം നൽകാവുന്ന ലളിതമായ ഘട്ടം ഘട്ടമായുള്ള ചോദ്യങ്ങൾ."
+        },
+        "ai": {
+            "title": "എഐ ജനറേഷൻ",
+            "desc": "നിങ്ങളുടെ ഉത്തരങ്ങളെ അടിസ്ഥാനമാക്കി നിയമപരമായി കൃത്യമായ ഹർജികൾ തൽക്ഷണം സൃഷ്ടിക്കുന്നു."
+        },
+        "multilingual": {
+            "title": "ബഹുഭാഷാ പിന്തുണ",
+            "desc": "ഹിന്ദി, തമിഴ്, തെലുങ്ക് എന്നിവയുൾപ്പെടെ 12+ ഇന്ത്യൻ ഭാഷകൾക്ക് പൂർണ്ണ പിന്തുണ."
+        }
+    },
+    "common": {
+        "getStarted": "തുടങ്ങുക",
+        "view": "കാണുക",
+        "download": "ഡൗൺലോഡ്",
+        "loading": "ലോഡ് ചെയ്യുന്നു...",
+        "save": "സേവ് ചെയ്യുക",
+        "next": "അടുത്തത്",
+        "previous": "മുമ്പത്തെ",
+        "submit": "സമർപ്പിക്കുക",
+        "backToHome": "ഹോമിലേക്ക് മടങ്ങുക"
+    },
+    "nav": {
+        "home": "ഹോം",
+        "dashboard": "ഡാഷ്‌ബോർഡ്",
+        "logout": "ലോഗ് ഔട്ട്"
+    },
+    "auth": {
+        "login": "ലോഗിൻ",
+        "signup": "സൈൻ അപ്പ്",
+        "loginTitle": "വീണ്ടും സ്വാഗതം",
+        "loginSubtitle": "നിങ്ങളുടെ ഹർജികൾ ആക്‌സസ് ചെയ്യാൻ സൈൻ ഇൻ ചെയ്യുക",
+        "loginSuccess": "വിജയകരമായി ലോഗിൻ ചെയ്തു",
+        "loginError": "തെറ്റായ വിവരങ്ങൾ",
+        "registerTitle": "അക്കൗണ്ട് സൃഷ്ടിക്കുക",
+        "registerSubtitle": "ഹർജികൾ തയ്യാറാക്കാൻ NyayaSetu-ൽ ചേരുക",
+        "registerSuccess": "അക്കൗണ്ട് വിജയകരമായി സൃഷ്ടിച്ചു",
+        "registerError": "രജിസ്ട്രേഷൻ പരാജയപ്പെട്ടു",
+        "email": "ഇമെയിൽ വിലാസം",
+        "password": "പാസ്‌വേഡ്",
+        "name": "മുഴുവൻ പേര്",
+        "phone": "ഫോൺ നമ്പർ",
+        "address": "വിലാസം",
+        "city": "നഗരം",
+        "state": "സംസ്ഥാനം",
+        "noAccount": "അക്കൗണ്ട് ഇല്ലേ?",
+        "hasAccount": "ഇതിനകം അക്കൗണ്ട് ഉണ്ടോ?",
+        "googleUser": "ഗൂഗിൾ ഉപയോക്താവ്",
+        "loggedInStatus": "ലോഗിൻ ചെയ്തു",
+        "enterEmail": "നിങ്ങളുടെ ഇമെയിൽ നൽകുക",
+        "enterPassword": "നിങ്ങളുടെ പാസ്‌വേഡ് നൽകുക",
+        "enterName": "മുഴുവൻ പേര്",
+        "enterPhone": "ഫോൺ നമ്പർ",
+        "enterAddress": "മുഴുവൻ വിലാസം",
+        "enterCity": "നഗരം",
+        "enterState": "സംസ്ഥാനം",
+        "orContinueWith": "അല്ലെങ്കിൽ തുടരുക",
+        "loggedInWith": "{{provider}} വഴി ലോഗിൻ ചെയ്തു",
+        "loginFailed": "{{provider}} ലോഗിൻ പരാജയപ്പെട്ടു",
+        "placeholderPassword": "പാസ്‌വേഡ്"
+    },
+    "dashboard": {
+        "title": "എന്റെ ഡാഷ്‌ബോർഡ്",
+        "subtitle": "നിങ്ങളുടെ ഹർജികളും ഡ്രാഫ്റ്റുകളും നിയന്ത്രിക്കുക",
+        "newPetition": "പുതിയ ഹർജി",
+        "confirmDelete": "ഈ ഹർജി നീക്കം ചെയ്യണമെന്ന് നിങ്ങൾക്ക് ഉറപ്പാണോ?",
+        "deleteSuccess": "ഹർജി നീക്കം ചെയ്തു",
+        "deleteError": "ഹർജി നീക്കം ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു",
+        "allStatus": "എല്ലാ സ്റ്റാറ്റസും",
+        "allTypes": "എല്ലാ തരങ്ങളും",
+        "noPetitions": "ഹർജികളൊന്നും കണ്ടെത്തിയില്ല",
+        "noPetitionsDesc": "നിങ്ങൾ ഇതുവരെ ഹർജികളൊന്നും സൃഷ്ടിച്ചിട്ടില്ല.",
+        "createFirst": "നിങ്ങളുടെ ആദ്യ ഹർജി സൃഷ്ടിക്കുക"
+    },
+    "status": {
+        "draft": "ഡ്രാഫ്റ്റ്",
+        "completed": "പൂർത്തിയായി",
+        "submitted": "സമർപ്പിച്ചു",
+        "archived": "ആർക്കൈവ് ചെയ്തു"
+    },
+    "chatbot": {
+        "title": "നിയമ സഹായി",
+        "welcome": "നമസ്കാരം! നിയമ നടപടികൾ മനസ്സിലാക്കാനോ ഹർജികൾ പൂരിപ്പിക്കാനോ എനിക്ക് നിങ്ങളെ സഹായിക്കാനാകും.",
+        "placeholder": "നിങ്ങളുടെ സന്ദേശം ടൈപ്പ് ചെയ്യുക...",
+        "error": "ക്ഷമിക്കണം, എനിക്ക് ആ അഭ്യർത്ഥന പ്രോസസ്സ് ചെയ്യാൻ കഴിഞ്ഞില്ല."
+    },
+    "news": {
+        "title": "ഏറ്റവും പുതിയ വിവരങ്ങൾ",
+        "items": [
+            {
+                "title": "New Consumer Protection Guidelines 2024",
+                "date": "Jan 15, 2024",
+                "summary": "The government has issued new guidelines for e-commerce platforms to protect consumer rights against dark patterns and unfair trade practices."
+            },
+            {
+                "title": "Simplified RTI Filing Process Online",
+                "date": "Jan 10, 2024",
+                "summary": "RTI applications can now be filed with fewer documents and simplified verification steps through the new portal update."
+            },
+            {
+                "title": "National Lok Adalat Schedule Announced",
+                "date": "Jan 05, 2024",
+                "summary": "The next National Lok Adalat is scheduled for next month to help settle pending cases amicably without court fees."
+            }
+        ]
+    },
+    "questionnaire": {
+        "schemaError": "ചോദ്യാവലി ലോഡ് ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു",
+        "steps": "ഘട്ടം {{total}}-ൽ {{current}}",
+        "generate": "ഹർജി തയ്യാറാക്കുക"
+    }
+}

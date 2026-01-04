@@ -1,0 +1,18 @@
+✨ Gemini AI Connected! Key Length: 39
+Testing AI Chat...
+Question: IPC 420 kya hota hai detail mein batao
+[DEBUG] Chat Request: "IPC 420 kya hota hai detail mein batao" | Gemini: true | OpenAI: true
+[DEBUG] Attempting Gemini chat...
+(node:30032) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+AI Chat Error Detailed: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+--- AI Answer ---
+मैं आपकी पूरी बात नहीं समझ पाया, लेकिन मैं आपकी मदद करना चाहता हूँ। 
+क्या आप इनमे से किसी के बारे में पूछ रहे हैं?
+🔹 **पुलिस** (एफआईआर, झगड़ा)
+🔹 **परिवार** (शादी, तलाक, बच्चा)
+🔹 **पैसा** (उधारी, चेक, बैंक)
+🔹 **जमीन** (कब्जा, विवाद)
+कृपया सरल शब्दों में लिखें: 'मेरा चेक बाउंस हो गया' या 'तलाक कैसे लें'।
+-----------------

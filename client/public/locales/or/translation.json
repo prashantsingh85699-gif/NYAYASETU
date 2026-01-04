@@ -1,0 +1,159 @@
+{
+    "tagline": "AI-ଚାଳିତ ଆଇନଗତ ଆବେଦନ ଡ୍ରାଫ୍ଟିଂ ପ୍ଲାଟଫର୍ମ",
+    "hero": {
+        "powered": "ଉନ୍ନତ AI ଦ୍ୱାରା ଚାଳିତ",
+        "title": "ପ୍ରତ୍ୟେକ ଭାରତୀୟ ନାଗରିକଙ୍କ ପାଇଁ ଆଇନଗତ ନ୍ୟାୟ ଉପଲବ୍ଧ",
+        "subtitle": "ଆପଣଙ୍କ ଭାଷାରେ ପ୍ରଫେସନାଲ ଆଇନଗତ ଆବେଦନ ପ୍ରସ୍ତୁତ କରନ୍ତୁ। କୌଣସି ଆଇନଗତ ଜ୍ଞାନ ଆବଶ୍ୟକ ନାହିଁ।"
+    },
+    "stats": {
+        "languages": "ଭାରତୀୟ ଭାଷା",
+        "types": "ଆବେଦନ ପ୍ରକାର",
+        "time": "ଡ୍ରାଫ୍ଟ କରିବାକୁ ସମୟ",
+        "accuracy": "ଆଇନଗତ ସଠିକତା",
+        "minutes": "ମିନିଟ୍"
+    },
+    "petitionTypes": {
+        "title": "ଆପଣଙ୍କ ଆବେଦନ ପ୍ରକାର ଚୟନ କରନ୍ତୁ",
+        "items": {
+            "rti": {
+                "name": "ଆରଟିଆଇ ଆବେଦନ",
+                "desc": "ସୂଚନା ଅଧିକାର ଅନୁରୋଧ"
+            },
+            "consumer": {
+                "name": "ଉପଭୋକ୍ତା ଅଭିଯୋଗ",
+                "desc": "ଉପଭୋକ୍ତା ଫୋରମ୍ ଅଭିଯୋଗ"
+            },
+            "grievance": {
+                "name": "ଅଭିଯୋଗ ପିଟିସନ୍",
+                "desc": "ଅଧିକାରୀଙ୍କ ନିକଟରେ ଅଭିଯୋଗ"
+            },
+            "pil": {
+                "name": "ଜନସ୍ୱାର୍ଥ ମାମଲା",
+                "desc": "ଜନସ୍ୱାର୍ଥ ପାଇଁ ଆଇନଗତ ଆବେଦନ"
+            },
+            "writ": {
+                "name": "ରିଟ୍ ପିଟିସନ୍",
+                "desc": "ସାମ୍ୱିଧାନିକ ପ୍ରତିକାର"
+            },
+            "municipal": {
+                "name": "ମ୍ୟୁନିସିପାଲିଟି ଅଭିଯୋଗ",
+                "desc": "ସ୍ଥାନୀୟ ସଂସ୍ଥା ଅଭିଯୋଗ"
+            }
+        }
+    },
+    "features": {
+        "title": "NyayaSetu କାହିଁକି ବାଛିବେ?",
+        "questionnaire": {
+            "title": "ସ୍ମାର୍ଟ ପ୍ରଶ୍ନବଳୀ",
+            "desc": "ସରଳ ପଦକ୍ଷେପ-ଦ୍ୱାରା-ପଦକ୍ଷେପ ପ୍ରଶ୍ନ ଯାହାର ଉତ୍ତର କେହି ବି ଦେଇପାରିବେ।"
+        },
+        "ai": {
+            "title": "AI ଜେନେରେସନ୍",
+            "desc": "ଆପଣଙ୍କ ଉତ୍ତର ଉପରେ ଆଧାର କରି ତୁରନ୍ତ ଆଇନଗତ ଭାବରେ ସଠିକ୍ ଆବେଦନ ପ୍ରସ୍ତୁତ କରେ।"
+        },
+        "multilingual": {
+            "title": "ବହୁଭାଷୀ ସମର୍ଥନ",
+            "desc": "ହିନ୍ଦୀ, ତାମିଲ, ତେଲୁଗୁ ଇତ୍ୟାଦି ସହିତ 12+ ଭାରତୀୟ ଭାଷା ପାଇଁ ପୂର୍ଣ୍ଣ ସମର୍ଥନ।"
+        }
+    },
+    "common": {
+        "getStarted": "ଆରମ୍ଭ କରନ୍ତୁ",
+        "view": "ଦେଖନ୍ତୁ",
+        "download": "ଡାଉନଲୋଡ୍",
+        "loading": "ଲୋଡ୍ ହେଉଛି...",
+        "save": "ସେଭ୍ କରନ୍ତୁ",
+        "next": "ପରବର୍ତ୍ତୀ",
+        "previous": "ପୂର୍ବବର୍ତ୍ତୀ",
+        "submit": "ଦାଖଲ କରନ୍ତୁ",
+        "backToHome": "ମୂଳ ପୃଷ୍ଠାକୁ ଫେରନ୍ତୁ"
+    },
+    "nav": {
+        "home": "ମୂଳ ପୃଷ୍ଠା",
+        "dashboard": "ଡ୍ୟାସବୋର୍ଡ",
+        "logout": "ଲଗ୍ ଆଉଟ୍"
+    },
+    "auth": {
+        "login": "ଲଗ୍ ଇନ୍",
+        "signup": "ସାଇନ୍ ଅପ୍",
+        "loginTitle": "ସ୍ୱାଗତ",
+        "loginSubtitle": "ଆପଣଙ୍କ ଆବେଦନ ଦେଖିବାକୁ ସାଇନ୍ ଇନ୍ କରନ୍ତୁ",
+        "loginSuccess": "ସଫଳତାର ସହ ଲଗ୍ ଇନ୍ ହୋଇଛି",
+        "loginError": "ଭୁଲ୍ ବିବରଣୀ",
+        "registerTitle": "ଆକାଉଣ୍ଟ୍ ତିଆରି କରନ୍ତୁ",
+        "registerSubtitle": "ଆବେଦନ ଡ୍ରାଫ୍ଟ କରିବା ଆରମ୍ଭ କରିବାକୁ NyayaSetu ରେ ଯୋଗ ଦିଅନ୍ତୁ",
+        "registerSuccess": "ଆକାଉଣ୍ଟ୍ ସଫଳତାର ସହ ତିଆରି ହେଲା",
+        "registerError": "ପଞ୍ଜୀକରଣ ବିଫଳ ହେଲା",
+        "email": "ଇମେଲ୍ ଠିକଣା",
+        "password": "ପାସୱାର୍ଡ",
+        "name": "ପୂର୍ଣ୍ଣ ନାମ",
+        "phone": "ଫୋନ୍ ନମ୍ବର",
+        "address": "ଠିକଣା",
+        "city": "ସହର",
+        "state": "ରାଜ୍ୟ",
+        "noAccount": "ଆକାଉଣ୍ଟ୍ ନାହିଁ?",
+        "hasAccount": "ପୂର୍ବରୁ ଆକାଉଣ୍ଟ୍ ଅଛି?",
+        "googleUser": "ଗୁଗୁଲ ବ୍ୟବହାରକାରୀ",
+        "loggedInStatus": "ଲଗ୍ ଇନ୍",
+        "enterEmail": "ଆପଣଙ୍କ ଇମେଲ୍ ଦିଅନ୍ତୁ",
+        "enterPassword": "ଆପଣଙ୍କ ପାସୱାର୍ଡ ଦିଅନ୍ତୁ",
+        "enterName": "ପୂର୍ଣ୍ଣ ନାମ",
+        "enterPhone": "ଫୋନ୍ ନମ୍ବର",
+        "enterAddress": "ପୂର୍ଣ୍ଣ ଠିକଣା",
+        "enterCity": "ସହର",
+        "enterState": "ରାଜ୍ୟ",
+        "orContinueWith": "କିମ୍ବା ଏହା ସହିତ ଆଗକୁ ବଢନ୍ତୁ",
+        "loggedInWith": "{{provider}} ସହିତ ଲଗ୍ ଇନ୍ ହୋଇଛି",
+        "loginFailed": "{{provider}} ଲଗଇନ୍ ବିଫଳ ହୋଇଛି",
+        "placeholderPassword": "ପାସୱାର୍ଡ"
+    },
+    "dashboard": {
+        "title": "ମୋ ଡ୍ୟାସବୋର୍ଡ",
+        "subtitle": "ଆପଣଙ୍କ ଆବେଦନ ଏବଂ ଡ୍ରାଫ୍ଟ ପରିଚାଳନା କରନ୍ତୁ",
+        "newPetition": "ନୂତନ ଆବେଦନ",
+        "confirmDelete": "ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ଏହି ଆବେଦନକୁ ଡିଲିଟ୍ କରିବାକୁ ଚାହୁଁଛନ୍ତି?",
+        "deleteSuccess": "ଆବେଦନ ଡିଲିଟ୍ ହୋଇଗଲା",
+        "deleteError": "ଆବେଦନ ଡିଲିଟ୍ କରିବାରେ ବିଫଳ",
+        "allStatus": "ସମସ୍ତ ସ୍ଥିତି",
+        "allTypes": "ସମସ୍ତ ପ୍ରକାର",
+        "noPetitions": "କୌଣସି ଆବେଦନ ମିଳିଲା ନାହିଁ",
+        "noPetitionsDesc": "ଆପଣ ଏପର୍ଯ୍ୟନ୍ତ କୌଣସି ଆବେଦନ ତିଆରି କରିନାହାଁନ୍ତି।",
+        "createFirst": "ଆପଣଙ୍କ ପ୍ରଥମ ଆବେଦନ ତିଆରି କରନ୍ତୁ"
+    },
+    "status": {
+        "draft": "ଡ୍ରାଫ୍ଟ",
+        "completed": "ସମ୍ପୂର୍ଣ୍ଣ",
+        "submitted": "ଦାଖଲ ହୋଇଛି",
+        "archived": "ଆର୍କାଇଭ୍ ହୋଇଛି"
+    },
+    "chatbot": {
+        "title": "ଆଇନଗତ ସହାୟକ",
+        "welcome": "ନମସ୍କାର! ମୁଁ ଆପଣଙ୍କୁ ଆଇନଗତ ପ୍ରକ୍ରିୟା ବୁଝିବାରେ କିମ୍ବା ଆବେଦନ ପୂରଣ କରିବାରେ ସାହାଯ୍ୟ କରିପାରିବି।",
+        "placeholder": "ଆପଣଙ୍କ ସନ୍ଦେଶ ଲେଖନ୍ତୁ...",
+        "error": "କ୍ଷମା କରିବେ, ମୁଁ ସେହି ଅନୁରୋଧକୁ ପ୍ରକ୍ରିୟାକରଣ କରିପାରିଲି ନାହିଁ।"
+    },
+    "news": {
+        "title": "ସର୍ବଶେଷ ଅପଡେଟ୍",
+        "items": [
+            {
+                "title": "New Consumer Protection Guidelines 2024",
+                "date": "Jan 15, 2024",
+                "summary": "The government has issued new guidelines for e-commerce platforms to protect consumer rights against dark patterns and unfair trade practices."
+            },
+            {
+                "title": "Simplified RTI Filing Process Online",
+                "date": "Jan 10, 2024",
+                "summary": "RTI applications can now be filed with fewer documents and simplified verification steps through the new portal update."
+            },
+            {
+                "title": "National Lok Adalat Schedule Announced",
+                "date": "Jan 05, 2024",
+                "summary": "The next National Lok Adalat is scheduled for next month to help settle pending cases amicably without court fees."
+            }
+        ]
+    },
+    "questionnaire": {
+        "schemaError": "ପ୍ରଶ୍ନବଳୀ ଲୋଡ୍ କରିବାରେ ବିଫଳ",
+        "steps": "ପଦକ୍ଷେପ {{total}} ର {{current}}",
+        "generate": "ଆବେଦନ ପ୍ରସ୍ତୁତ କରନ୍ତୁ"
+    }
+}
